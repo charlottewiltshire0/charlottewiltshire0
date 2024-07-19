@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @charlottewiltshire0
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning javascript, typescript 
+- 💞️ I’m looking to collaborate on discord (@charlottewiltshire0)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: null
